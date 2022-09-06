@@ -1,1 +1,1 @@
-script that displays all users and their home directories, sorted by users.
+script that displays a confused smiley
