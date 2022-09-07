@@ -1,1 +1,1 @@
-script that displays a confused smiley
+shell script that creates a file named exactly Best School
